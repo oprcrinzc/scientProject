@@ -4,3 +4,6 @@
 [submodule "dataServer"]
 	path = dataServer
 	url = https://github.com/oprcrinzc/dataserver
+[submodule "userinterface"]
+	path = userinterface
+	url = git@github.com:oprcrinzc/userInterface.git
