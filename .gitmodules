@@ -1,0 +1,6 @@
+[submodule "dataServeA"]
+	path = dataServeA
+	url = https://github.com/oprcrinzc/dataserver
+[submodule "dataServer"]
+	path = dataServer
+	url = https://github.com/oprcrinzc/dataserver
