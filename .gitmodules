@@ -7,3 +7,6 @@
 [submodule "dataServer"]
 	path = dataServer
 	url = git@github.com:oprcrinzc/dataserver.gitgit
+[submodule "Sworker"]
+	path = Sworker
+	url = git@github.com:oprcrinzc/Sworker.git
